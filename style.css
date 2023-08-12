@@ -1,0 +1,59 @@
+body {
+  background-color: green;
+  font-family: arial;
+  font-size: 10px;
+  padding: 50px;
+}
+
+h1 {
+  font-size: 100px;
+  margin-bottom: 25px;
+}
+
+h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+.first {
+  color: yellow;
+}
+
+#Creating-form {
+  color: black;
+  background-color: white;
+  border: 5px dotted #345;
+  width: 400px;
+  padding: 25px;
+  margin-top: 50px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+input,
+button {
+  padding: 10px;
+  font-size: 16px;
+}
+
+a {
+  background-color: red;
+}
+
+#forest-image {
+  /* height: 200px */
+  width: 100px;
+}
+
+#Creating-form h2 {
+  color: pink;
+  background-color: blue;
+}
